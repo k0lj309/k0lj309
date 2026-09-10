@@ -1,18 +1,32 @@
 <pre>
-      |\      _,,,---,,_
-ZZZzz /,`.-'`'    -.  ;-;;,_
-     |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)
+   ███████╗███╗   ███╗ ██████╗ ██╗  ██╗
+   ██╔════╝████╗ ████║██╔═████╗██║ ██╔╝
+   ███████╗██╔████╔██║██║██╔██║█████╔╝
+   ╚════██║██║╚██╔╝██║████╔╝██║██╔═██╗
+   ███████║██║ ╚═╝ ██║╚██████╔╝██║  ██╗
+   ╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+           )  (  )
+          (  )  (
+           )  (  )
+       .____________.
+       |            |__
+       |            |  |        |\      _,,,---,,_
+       |            |  |  ZZZzz /,`.-'`'    -.  ;-;;,_
+       |            |__|       |,4-  ) )-,_. ,\ (  `'-'
+       \____________/         '---''(_/--'  `-'\_)
+  ════════════════════════════════════════════════════
 </pre>
 
-### hey, i'm sm0k 👋
+I work in **cybersecurity** and like programming in **Python**.
+I'm really into **machine learning**, automate workflows with **n8n**,
+and I'm always learning something new.
 
-just building little things at my own pace ☕
+#### stack
 
-- 🌱 always learning something new
-- 🎧 usually coding with music on
-- 🐢 slow and steady, but it gets done
-- ✨ fun fact: my bio is `777` in binary
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,linux,git&theme=dark" height="48" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n" />
+</p>
 
 <br>
 
