@@ -1,0 +1,43 @@
+# Redraws assets/activity.svg from live GitHub data once a day
+# and commits them if anything changed.
+#
+# Needs a STATS_TOKEN secret: a fine-grained personal access token with access to
+# "All repositories" (read-only metadata is enough). The built-in GITHUB_TOKEN only
+# sees public repos, which would skew the language stats, so without the secret the
+# job just skips.
+name: Refresh stats
+
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Draw assets
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::warning::STATS_TOKEN secret not set, skipping stats refresh"
+            exit 0
+          fi
+          python scripts/build_assets.py
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain assets)" ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add assets
+            git commit -m 'Refresh stats'
+            git push
+          fi

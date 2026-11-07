@@ -1,46 +1,11 @@
-<pre>
-          ███████╗███╗   ███╗ ██████╗ ██╗  ██╗
-          ██╔════╝████╗ ████║██╔═████╗██║ ██╔╝
-          ███████╗██╔████╔██║██║██╔██║█████╔╝
-          ╚════██║██║╚██╔╝██║████╔╝██║██╔═██╗
-          ███████║██║ ╚═╝ ██║╚██████╔╝██║  ██╗
-          ╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-     
-                         ::%%
-                       @@@@@%:
-                       :@%%@@@%%                       %%@@@
-                        %%%%%@@@@%%%%               %@@@@@@@%
-                        %%@@@@@@@@@@@%%%%%%%%:  %%%@@@@@@%%%%
-                        %@@@@@@@@@@%%%%%%@@@@@@@@@@@@@%%%%:%%
-                        @@@@@@@@@@@@%@@@@@@@@@@@@@@@@%%%%::%
-                       %@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:::%
-                     :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%%%%%
-                   :%@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%
-            ++++   %%@@@%:+:%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-           ++++++  %@@@@@%::%::@@@@@@@@%::%@%%@@@@@@@@@@@@@@%
-             +++++:%@@@@@@@%%%@@@@@@@@@:++%%+:@@@@@@@@@@@@@@:
-                +++%@@@@@%%%%@@@@@@@@@@@%::%%@@@@@@@@@@@@@@%
-                 +++%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@:
-                  ++:@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%
-                  ++:%@@@@%%:::%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:
-                  :++:@%%++o+:%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%
-                %%@:++++o+:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:
-             :%%@%::+:+:%@@@@@@@@%@@@%@@@@@%%@@@@@@@@@@@@@@@@@@%%
-           :%@@%:+++:%@@@@@@@@@@@%@@%%@@%@@%:%@@@@@@@@@@@@@@@@@@@%
-        :%%@@@@@%%%@@@@@@@@@@@%@@@%@@%@@%%@%%:@%%@@@@@@@@@@@@@@@@%
-       :%%@@@@@@@@@@@@@@@@@@@%%%@%%@%:%@::@%::@%:%%%%%@@@@@@@@@@@@:
-      %%@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%
-    %%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@%
-  %%@@@%@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@%
-</pre>
-
-I work in **cybersecurity** and like programming in **Python**.
-I'm into **machine learning**, automate workflows with **Python** and **n8n**,
-and I'm always learning something new.
-
-#### stack
+<img src="assets/header.svg" width="100%" alt="Sm0k — Cybersecurity & Automation. Always learning something new. A small workflow runs: alert, enrich, automate, resolved." />
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kali,linux,bash,docker,neovim,git,react&theme=dark" height="48" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n" />
+  <img src="https://cdn.simpleicons.org/python" height="20" title="Python" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript" height="20" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnubash" height="20" title="Bash" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" height="20" title="Linux" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kalilinux" height="20" title="Kali Linux" alt="Kali Linux" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker" height="20" title="Docker" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/n8n" height="20" title="n8n" alt="n8n" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/neovim" height="20" title="Neovim" alt="Neovim" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git" height="20" title="Git" alt="Git" />
 </p>
+
+<br>
+
+<img src="assets/activity.svg" width="100%" alt="Contributions in the last year and a contribution heatmap" />
+
+<sub>[localhorst.pro](https://localhorst.pro)</sub>
